@@ -6,3 +6,4 @@ scikit-surprise==1.1.1  # Updated to include scikit-surprise
 matplotlib==3.4.3
 wordcloud==1.8.1
 click<8.0,>=7.0
+seaborn==0.11.2
